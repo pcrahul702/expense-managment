@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pcrahul702/expense-managment/static/css/main.22f03006.css",
+    "main.js": "/pcrahul702/expense-managment/static/js/main.3979a528.js",
+    "static/js/453.37753ddd.chunk.js": "/pcrahul702/expense-managment/static/js/453.37753ddd.chunk.js",
+    "index.html": "/pcrahul702/expense-managment/index.html",
+    "main.22f03006.css.map": "/pcrahul702/expense-managment/static/css/main.22f03006.css.map",
+    "main.3979a528.js.map": "/pcrahul702/expense-managment/static/js/main.3979a528.js.map",
+    "453.37753ddd.chunk.js.map": "/pcrahul702/expense-managment/static/js/453.37753ddd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22f03006.css",
+    "static/js/main.3979a528.js"
+  ]
+}
